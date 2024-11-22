@@ -1,0 +1,26 @@
+[
+    {
+        "_id": 1,
+        "addresss": [
+            313,
+            "313 Orchard Road",
+            "#02-28",
+            111222
+        ],
+      
+        "dentist_id": 90,
+        "appointment_id": 100001
+    },
+    
+    {
+        "_id": 3,
+        "addresss": [
+            666,
+            "yishun Ring Road",
+            "#01-28",
+             123456
+        ],
+        "dentist_id": 99,
+        "appointment_id": 100022
+    }
+]

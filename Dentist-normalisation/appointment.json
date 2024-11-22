@@ -1,0 +1,19 @@
+[
+    {
+        "_id": 100001,
+        "datetime": "2024-11-25 17:30:00",
+        "treatment_id": 501,
+        "patient_id" : 1001,
+        "dentist_id": 99
+           
+    },
+    
+    {
+        "_id": 100022,
+        "datetime": "2024-11-26 15:30:00",
+        "treatment_id": 511,
+        "patient_id" : 1011,
+        "dentist_id": 90
+           
+    }
+]

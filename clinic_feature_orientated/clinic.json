@@ -1,0 +1,26 @@
+[
+    {
+        "_id": 1,
+        "addresss": [
+            313,
+            "313 Orchard Road",
+            "#02-28",
+            111222
+        ],
+        "dentist": {
+            "dentist_id": 90,
+            "name": "Zhong Li",
+            "Qualification": [
+                "Medical practioner",
+                "Root Canal Specialist"
+            ]
+        },
+        "appointment": {
+            "patient_id": 1001,
+            "appointment_id": 100001,
+            "datetime": "2024-11-25 17:30:00",
+            "treatment_id": 501,
+            "treatment_type": "Wisdom Tooth Extraction"
+        }
+    }
+]

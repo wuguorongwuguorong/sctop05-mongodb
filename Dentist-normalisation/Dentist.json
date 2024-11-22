@@ -1,0 +1,23 @@
+[
+    {
+        "_id": 99,
+        "name": "Zhong Li",
+        "Qualification":[
+            "Medical practioner",
+             "Root Canal Specialist"
+        ],
+        "clinic_id": 1,
+        "appointment_id": 100001
+    },
+    
+    {
+        "_id": 90,
+        "name": "Eric Zhou",
+        "Qualification":[
+            "Doctor of Dental Surgery (DDS)",
+             "Bachelor of Dental Surgery (BDS)"
+        ],
+        "clinic_id": 3,
+        "appointment_id": 100022
+    }
+]

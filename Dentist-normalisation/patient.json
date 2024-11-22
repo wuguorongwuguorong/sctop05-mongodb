@@ -1,0 +1,20 @@
+
+[
+    {
+        "_id" : 1001,
+        "name": "Lim Teck",
+        "NRIC" : "S1234567Q",
+        "dob": "2000-07-07",
+        "contact" : 912234567,
+       "appointment_id": 100001
+    },
+
+    {
+        "_id" : 1011,
+        "name": "Jacky Teck",
+        "NRIC" : "S7654321B",
+        "dob": "1999-01-25",
+        "contact" : 98765432,
+        "appointment_id": 100022
+    }
+]

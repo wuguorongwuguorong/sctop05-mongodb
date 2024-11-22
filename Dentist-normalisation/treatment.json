@@ -1,0 +1,20 @@
+[
+    { 
+        "_id" :501,
+        "treatment_type":"Wisdom Tooth Extraction"
+
+    },
+
+    { 
+        "_id" :511,
+        "treatment_type":"Clean and Polish"
+
+    },
+
+    { 
+        "_id" :522,
+        "treatment_type":"Root Canal"
+
+    }
+    
+]

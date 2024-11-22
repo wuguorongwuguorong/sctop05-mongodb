@@ -1,0 +1,20 @@
+[
+    {
+        "_id": 1001,
+        "name": "Lim Teck",
+        "NRIC": "S1234567Q",
+        "dob": "2000-07-07",
+        "contact": 912234567,
+        "dentist": {
+            "name": "Zhong Li",
+            "Qualification": [
+                "Medical practioner",
+                "Root Canal Specialist"
+            ],
+            "clinic_id": 1,
+            "treatment_type": "Wisdom Tooth Extraction"
+        },
+        "appointment_id": 100001,
+        "datetime": "2024-11-25 17:30:00"
+    }
+]
