@@ -1,20 +1,163 @@
-
 [
     {
-        "_id" : 1001,
-        "name": "Lim Teck",
-        "NRIC" : "S1234567Q",
-        "dob": "2000-07-07",
-        "contact" : 912234567,
-       "appointment_id": 100001
+      "_id": 1011,
+      "name": "Jacky Teck",
+      "NRIC": "S7654321B",
+      "dob": "1999-01-25",
+      "contact": 98765432,
+      "dentist_id": "90"
     },
-
     {
-        "_id" : 1011,
-        "name": "Jacky Teck",
-        "NRIC" : "S7654321B",
-        "dob": "1999-01-25",
-        "contact" : 98765432,
-        "appointment_id": 100022
+      "_id": 1012,
+      "name": "Emily Tan",
+      "NRIC": "S1234567A",
+      "dob": "1990-06-15",
+      "contact": 91234567,
+      "dentist_id": "99"
+    },
+    {
+      "_id": 1013,
+      "name": "Benjamin Lim",
+      "NRIC": "S7654322C",
+      "dob": "1985-08-20",
+      "contact": 98765433,
+      "dentist_id": "18"
+    },
+    {
+      "_id": 1014,
+      "name": "Sarah Lee",
+      "NRIC": "S2345678B",
+      "dob": "1992-03-12",
+      "contact": 91827364,
+      "dentist_id": "88"
+    },
+    {
+      "_id": 1015,
+      "name": "Daniel Wong",
+      "NRIC": "S3456789C",
+      "dob": "1987-11-05",
+      "contact": 92345678,
+      "dentist_id": "18"
+    },
+    {
+      "_id": 1016,
+      "name": "Hannah Ng",
+      "NRIC": "S4567890D",
+      "dob": "1995-02-19",
+      "contact": 93456789,
+      "dentist_id": "90"
+    },
+    {
+      "_id": 1017,
+      "name": "Lucas Chan",
+      "NRIC": "S5678901E",
+      "dob": "1983-12-25",
+      "contact": 94567890,
+      "dentist_id": "88"
+    },
+    {
+      "_id": 1018,
+      "name": "Olivia Tay",
+      "NRIC": "S6789012F",
+      "dob": "2000-07-10",
+      "contact": 95678901,
+      "dentist_id": "99"
+    },
+    {
+      "_id": 1019,
+      "name": "Ethan Koh",
+      "NRIC": "S7890123G",
+      "dob": "1991-09-17",
+      "contact": 96789012,
+      "dentist_id": "90"
+    },
+    {
+      "_id": 1020,
+      "name": "Grace Goh",
+      "NRIC": "S8901234H",
+      "dob": "1989-04-30",
+      "contact": 97890123,
+      "dentist_id": "88"
+    },
+    {
+      "_id": 1021,
+      "name": "Sophia Lim",
+      "NRIC": "S9012345J",
+      "dob": "1996-10-22",
+      "contact": 98701234,
+      "dentist_id": "99"
+    },
+    {
+      "_id": 1022,
+      "name": "Nathan Yap",
+      "NRIC": "S0123456K",
+      "dob": "1993-05-08",
+      "contact": 98812345,
+      "dentist_id": "88"
+    },
+    {
+      "_id": 1023,
+      "name": "Megan Sim",
+      "NRIC": "S2345677L",
+      "dob": "1994-01-18",
+      "contact": 98456721,
+      "dentist_id": "18"
+    },
+    {
+      "_id": 1024,
+      "name": "James Tan",
+      "NRIC": "S3456788M",
+      "dob": "1982-07-02",
+      "contact": 98212347,
+      "dentist_id": "88"
+    },
+    {
+      "_id": 1025,
+      "name": "Chloe Ong",
+      "NRIC": "S4567899N",
+      "dob": "1988-06-29",
+      "contact": 98123456,
+      "dentist_id": "99"
+    },
+    {
+      "_id": 1026,
+      "name": "Ryan Chew",
+      "NRIC": "S5678900O",
+      "dob": "1998-11-11",
+      "contact": 98654321,
+      "dentist_id": "90"
+    },
+    {
+      "_id": 1027,
+      "name": "Emma Ho",
+      "NRIC": "S6789011P",
+      "dob": "1986-03-14",
+      "contact": 98341234,
+      "dentist_id": "90"
+    },
+    {
+      "_id": 1028,
+      "name": "Liam Leong",
+      "NRIC": "S7890122Q",
+      "dob": "1997-12-03",
+      "contact": 98723456,
+      "dentist_id": "88"
+    },
+    {
+      "_id": 1029,
+      "name": "Isabella Chia",
+      "NRIC": "S8901233R",
+      "dob": "1990-09-23",
+      "contact": 98987654,
+      "dentist_id": "18"
+    },
+    {
+      "_id": 1030,
+      "name": "Noah Tan",
+      "NRIC": "S9012344S",
+      "dob": "1984-08-06",
+      "contact": 98123234,
+      "dentist_id": "99"
     }
-]
+  ]
+  
